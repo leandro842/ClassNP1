@@ -1,0 +1,9 @@
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\bin\Debug\Classe_NP1.exe.config
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\bin\Debug\Classe_NP1.exe
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\bin\Debug\Classe_NP1.pdb
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\obj\Debug\Classe_NP1.csprojResolveAssemblyReference.cache
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\obj\Debug\Classe_NP1.Form1.resources
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\obj\Debug\Classe_NP1.Properties.Resources.resources
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\obj\Debug\Classe_NP1.csproj.GenerateResource.Cache
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\obj\Debug\Classe_NP1.exe
+c:\users\leandro\documents\visual studio 2013\Projects\Classe_NP1\Classe_NP1\obj\Debug\Classe_NP1.pdb
